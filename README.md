@@ -1,4 +1,4 @@
-# Doc Hunt 互联网优质文档猎手
+# Doc Hunt 互联网文档链接猎手
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
