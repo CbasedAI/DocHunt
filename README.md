@@ -1,6 +1,8 @@
-# Doc Hunt：互联网优质飞书文档采集和分享
+# Doc Hunt 互联网优质文档猎手
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
+
+飞书文档，Notion，GitHub仓库，腾讯文档，Google Docs，语雀......
 
 因为飞书等平台没有提供全局搜索文档功能，本项目通过互联网公开链接，汇聚飞书等优质平台文档并整理成索引导航，涉及技术，商业，认知和方法论等。同时，我们欢迎互联网的用户提交优质文档的链接，共建常读常新的知识库，让知识持续流动，无远弗届。
 
