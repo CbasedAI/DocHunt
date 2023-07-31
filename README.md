@@ -1,4 +1,4 @@
-# 飞书优质公开文档分享
+# Doc Hunt：互联网优质飞书文档采集和分享
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
