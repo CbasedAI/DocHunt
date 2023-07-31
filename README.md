@@ -45,6 +45,6 @@
 
 - [《探索有术·写给圈友的「自我探索工具箱」》](https://aicm6sy9hm.feishu.cn/docx/JbPpd6F9loE327xWQmhc7w4lngg)
 
-### 大佬分享
+## 大佬分享
 
 - [《傅盛：创业最大的难度就是太自由了，自由到你很容易失去方向》](https://sfr91pee58.feishu.cn/docs/doccnbxVijtn6Wl04KVT0FClSee?from=from_copylink)
