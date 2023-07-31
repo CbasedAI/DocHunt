@@ -27,7 +27,7 @@
 #### Midjourney
 - [《Midjourney知识》](https://evnr5jw9no.feishu.cn/wiki/B2B8wIAZsiKSDvkpnSPcM6nPn2d?from=from_copylink)
 - [《数字生命编年史 | 科幻小说初尝试》](https://to7e2gkmim.feishu.cn/docx/HfZJd8yzKoqpjhxwfOkchq6InLc?from=from_copylink)
-- [ChatGPT&C.AI_产品分析和发散](https://whjlnspmd6.feishu.cn/wiki/MidvwkPbwiCvFsksbokcj7hGnbh?from=from_copylink)
+- [《ChatGPT&C.AI_产品分析和发散》](https://whjlnspmd6.feishu.cn/wiki/MidvwkPbwiCvFsksbokcj7hGnbh?from=from_copylink)
 
 #### Muse.AI 
 - [《Muse.AI 自定义模型训练 + 作画经验分享》](https://tezign.feishu.cn/docx/S7PEdnUMVo57koxQpVgceocUnKg?from=from_copylink)
@@ -43,10 +43,10 @@
 - [《AIGC 企业应用场景研究报告》](https://to7e2gkmim.feishu.cn/wiki/wikcnx7g6fmM0lejchNBXyq93Qg)
 
 ## 互联网运营
-- [公众号运营教程](https://sda4svgghv.feishu.cn/docx/OvaldmCqOoJAVExynjIc1aj4nZc?from=from_copylink)
+- [《公众号运营教程》](https://sda4svgghv.feishu.cn/docx/OvaldmCqOoJAVExynjIc1aj4nZc?from=from_copylink)
 
 ## 训练健身
-- [健身飞书知识库](https://q76mcea5o0.feishu.cn/wiki/wikcnBCWrKIoG3IgVDcSRb9ZpXe?from=from_copylink)：包含健身科普、健身书籍，健身补剂、健身行业、古典造型。
+- [《健身飞书知识库》](https://q76mcea5o0.feishu.cn/wiki/wikcnBCWrKIoG3IgVDcSRb9ZpXe?from=from_copylink)：包含健身科普、健身书籍，健身补剂、健身行业、古典造型。
 
 ## 心智成长
 
