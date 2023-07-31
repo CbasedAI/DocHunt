@@ -30,17 +30,20 @@
 #### Muse.AI 
 - [《Muse.AI 自定义模型训练 + 作画经验分享》](https://tezign.feishu.cn/docx/S7PEdnUMVo57koxQpVgceocUnKg?from=from_copylink)
 
-### AIGC写作
+#### AIGC写作
 - [《探索有术·写给圈友的「自我探索工具箱」》](https://aicm6sy9hm.feishu.cn/docx/JbPpd6F9loE327xWQmhc7w4lngg?from=from_copylink)
 
+#### 企业场景落地
+- [《AIGC 企业应用场景研究报告》](https://to7e2gkmim.feishu.cn/wiki/wikcnx7g6fmM0lejchNBXyq93Qg)
 
-### AGI
+
+### AGI通用人工智能
 - [《通往AGI之路》](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?from=from_copylink)
 - [《AGI论文营地》](https://geektechstudio.feishu.cn/wiki/GKEFwnEQoiZutuktP3Sc0VXXnGh?from=from_copylink)：AGI论文飞书知识库，以时间维度来梳理学术发展的脉络，“以史为鉴”，能以一个更宏观的视角来理解人工智能各个领域。另一方面，读论文能力在跨界的赛道上是极容易被忽视的能力，值得培育。
 
 ## 心智成长
 
-- [《探索有术·写给圈友的「自我探索工具箱」》](https://aicm6sy9hm.feishu.cn/docx/JbPpd6F9loE327xWQmhc7w4lngg）
+- [《探索有术·写给圈友的「自我探索工具箱」》](https://aicm6sy9hm.feishu.cn/docx/JbPpd6F9loE327xWQmhc7w4lngg)
 
 ### 大佬分享
 
