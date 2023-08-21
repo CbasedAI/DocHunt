@@ -45,6 +45,9 @@
 ## 互联网运营
 - [《公众号运营教程》](https://sda4svgghv.feishu.cn/docx/OvaldmCqOoJAVExynjIc1aj4nZc?from=from_copylink)
 
+## 文案写作
+- [《让你受益匪浅的名家写作经验》](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=75u9ZeZfbr3cmtV2cKu0n6)
+
 ## 训练健身
 - [《健身飞书知识库》](https://q76mcea5o0.feishu.cn/wiki/wikcnBCWrKIoG3IgVDcSRb9ZpXe?from=from_copylink)：包含健身科普、健身书籍，健身补剂、健身行业、古典造型。
 
